@@ -1,0 +1,26 @@
+# Python cache / build
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+.envrc
+
+# Streamlit
+.streamlit/
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Local environment & secrets
+.env
+.env.*
+secrets.*
